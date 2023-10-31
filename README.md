@@ -1,3 +1,3 @@
 # stat201project
 
-Members: Bowen Cui, Ray Zhou, Can Huang, Nicholas Huang
+Members: Bowen Cui, Can Huang, Nicholas Huang, Ray Zhou
